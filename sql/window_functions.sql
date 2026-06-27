@@ -1,0 +1,1 @@
+-- Placeholder for SQL window function practice

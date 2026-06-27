@@ -1,0 +1,1 @@
+-- Placeholder for SQL query optimization notes

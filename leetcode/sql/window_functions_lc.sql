@@ -1,0 +1,1 @@
+-- Placeholder for LeetCode SQL window function practice

@@ -1,0 +1,44 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- ML / experiment artifacts ---
+mlruns/
+mlartifacts/
+*.faiss
+*.index
+*.pkl
+*.joblib
+*.onnx
+
+# --- Datasets (don't commit raw data, e.g. the Kaggle no-show CSV) ---
+data/
+datasets/
+*.csv
+*.parquet
+*.zip
+
+# --- Secrets / local config ---
+.env
+.env.*
+*.pem
+.aws/
+secrets.*
+
+# --- OS / editor ---
+.DS_Store
+.idea/
+.vscode/
+*.swp
