@@ -2,7 +2,6 @@
 # Problem: Two Sum
 # Difficulty: Easy
 # Pattern: Arrays + Hashing
-# URL: https://leetcode.com/problems/two-sum/
 # Date: 28 Jun 2026
 # Time complexity: O(n)
 # Space complexity: O(n)
